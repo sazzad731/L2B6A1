@@ -27,9 +27,6 @@ const getLength = (value: string | unknown[]): number => {
 }
 
 
-console.log(getLength("typescript"));
-console.log(getLength([10, 20, 30, 40]));
-
 
 
 
